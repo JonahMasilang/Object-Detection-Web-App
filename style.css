@@ -1,0 +1,14 @@
+.heading {
+    margin-top: 0px;
+    width: 100%;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.anchor {
+    color: black;
+    background-color: lightcoral;
+    font-size: 23;
+    font-weight: 700;
+    border-radius: 15%;
+}
